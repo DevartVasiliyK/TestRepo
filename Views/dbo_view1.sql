@@ -4,6 +4,6 @@ GO
 CREATE VIEW [dbo].[view1]
 AS
 SELECT
-  column2
+  column1
 FROM dbo.table1
 GO
